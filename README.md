@@ -1,6 +1,9 @@
 # 🏥 CuraPredict
 ICU Capacity Planning & Demand Forecasting Platform
 
+# Live Demo
+[Launch CuraPredict](https://curapredict.streamlit.app/)
+
 ## Overview
 
 CuraPredict is a machine learning-powered healthcare analytics platform that forecasts ICU bed requirements based on hospital operational indicators.
